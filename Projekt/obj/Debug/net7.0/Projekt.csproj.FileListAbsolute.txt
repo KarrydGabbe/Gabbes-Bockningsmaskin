@@ -1,0 +1,15 @@
+C:\Users\Gabri\Desktop\Programering\Projekt\bin\Debug\net7.0\Projekt.exe
+C:\Users\Gabri\Desktop\Programering\Projekt\bin\Debug\net7.0\Projekt.deps.json
+C:\Users\Gabri\Desktop\Programering\Projekt\bin\Debug\net7.0\Projekt.runtimeconfig.json
+C:\Users\Gabri\Desktop\Programering\Projekt\bin\Debug\net7.0\Projekt.dll
+C:\Users\Gabri\Desktop\Programering\Projekt\bin\Debug\net7.0\Projekt.pdb
+C:\Users\Gabri\Desktop\Programering\Projekt\obj\Debug\net7.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Gabri\Desktop\Programering\Projekt\obj\Debug\net7.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\Desktop\Programering\Projekt\obj\Debug\net7.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Gabri\Desktop\Programering\Projekt\obj\Debug\net7.0\Projekt.AssemblyInfo.cs
+C:\Users\Gabri\Desktop\Programering\Projekt\obj\Debug\net7.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Desktop\Programering\Projekt\obj\Debug\net7.0\Projekt.dll
+C:\Users\Gabri\Desktop\Programering\Projekt\obj\Debug\net7.0\refint\Projekt.dll
+C:\Users\Gabri\Desktop\Programering\Projekt\obj\Debug\net7.0\Projekt.pdb
+C:\Users\Gabri\Desktop\Programering\Projekt\obj\Debug\net7.0\Projekt.genruntimeconfig.cache
+C:\Users\Gabri\Desktop\Programering\Projekt\obj\Debug\net7.0\ref\Projekt.dll
