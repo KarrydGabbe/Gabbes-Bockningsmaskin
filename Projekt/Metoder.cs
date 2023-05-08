@@ -53,7 +53,7 @@ namespace Projekt
             }
             int vinkel = 90; //sifran 90 är en placeholder där den faktiska vinkeln som är uppmätt ska hamna fär att senare korochera tryckkraften
             Console.WriteLine("Vinkeln mättes till "+vinkel);
-            return(vinkel/90);
+            return(90/vinkel);
         }
 
         public static int palletering(int KX, int KY,int L)
